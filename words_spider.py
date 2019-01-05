@@ -9,9 +9,9 @@ from pyquery import PyQuery as pq
 
 base_url = "https://www.englishspeak.com"
 # mac 目录
-#base_dir = "/Users/lishang/PycharmProjects/English/"
+base_dir = "/Users/lishang/data/words/"
 # win 目录
-base_dir = "G:\data/english-words/"
+# base_dir = "G:\data/english-words/"
 header = {
         "cookie": "__cfduid=d0f6732e7eacfefe63c0d4a2644f25a8b1546408511; _ga=GA1.2.1654143687.1546408515; _gid=GA1.2.873369146.1546408515; __stripe_mid=cd4b5e10-27c4-4877-aad2-8c8e00709d3e; _englishspeak_r_session=U1RIRTFBc0h3a05sRlFERkx4RVZzWmlYYmtMUWIvbG5uNGNocUYwZjRrUWJGRG83amx2UWIyK1pkejBxQUYrOE91MWNrbDYzWXR1WEo3OVhubzFlUHpDNDFPZUVqMG9aSUhXL3pwcmR2NVRjTFRYTzFTeG5zQkU4RVNUa3RJNm81RkJCaHpFU0pIN3JiQWUxT0NqcjF3PT0tLTRFYlFMdnZaeGsvVnFkOXlPNDBzMVE9PQ%3D%3D--d730a66b9f25588ddbd75184b369ed82cd83cf56",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3608.4 Safari/537.36"
