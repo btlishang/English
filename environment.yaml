@@ -1,0 +1,32 @@
+name: English
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - ca-certificates=2018.03.07=0
+  - libcxx=4.0.1=hcfea43d_1
+  - libcxxabi=4.0.1=hcfea43d_1
+  - libedit=3.1.20170329=hb402a30_2
+  - ncurses=6.1=h0a44026_1
+  - openssl=1.1.1a=h1de35cc_0
+  - pyquery=1.4.0=py36_0
+  - python=3.6.7=haf84260_0
+  - readline=7.0=h1de35cc_5
+  - sqlite=3.26.0=ha441bb4_0
+  - tk=8.6.8=ha441bb4_0
+  - xz=5.2.4=h1de35cc_4
+  - certifi=2016.2.28=py36_0
+  - cssselect=1.0.1=py36_0
+  - libffi=3.2.1=1
+  - libiconv=1.14=0
+  - libxml2=2.9.4=0
+  - libxslt=1.1.29=0
+  - lxml=3.8.0=py36_0
+  - pip=9.0.1=py36_1
+  - requests=2.14.2=py36_0
+  - setuptools=36.4.0=py36_1
+  - wheel=0.29.0=py36_0
+  - zlib=1.2.11=0
+prefix: /Users/lishang/anaconda3/envs/English
+
